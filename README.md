@@ -30,7 +30,7 @@ The main program is `ai_assistant.py`.
 
 ## License
 
-Add a license file if you plan to share/redistribute this project.
+Still working on a license! But feel free to use the things for commercial as well as non-commercial purposes!
 
 ---
 
